@@ -8,3 +8,32 @@ div{
   border: 1px solid black;
   margin: 5px;
 }
+.huber{
+    background: red;
+}
+.meier{
+    background:  blue;
+}
+
+#lisa{
+    background: yellow;
+}
+.huber div{
+    background: pink;
+}
+
+#luis{
+    background: green;
+}
+#susi.meier{
+    background: blue;
+}
+#brigitte{
+    background: gray;
+}
+.meier #brigitte{
+    background: orange;
+}
+.meier div#brigitte{
+    background: skyblue;
+}
